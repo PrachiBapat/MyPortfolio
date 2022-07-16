@@ -1,0 +1,10 @@
+https://www.google.com/recaptcha/about/
+https://www.npmjs.com/package/ng-recaptcha
+
+npm i ng-recaptcha --save
+ --legacy-peer-deps
+
+npm uninstall ng-recaptcha
+npm i ng-recaptcha@9.0.0
+
+6LcXYfcgAAAAAHvSd7gHM8ByZPUjxXVOyyHgI82x

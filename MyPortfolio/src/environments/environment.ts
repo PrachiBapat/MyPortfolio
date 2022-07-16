@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  server: "https://sea-lion-app-rd2lz.ondigitalocean.app"
+  server: "http://localhost:1337"
 };
 
 /*
