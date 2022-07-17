@@ -4,7 +4,8 @@
 
 export const environment = {
   production: false,
-  server: "http://localhost:1337"
+  // server: "http://localhost:1337"
+  server:"https://jellyfish-app-vwkcb.ondigitalocean.app"
 };
 
 /*
